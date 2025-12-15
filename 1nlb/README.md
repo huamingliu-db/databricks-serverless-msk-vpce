@@ -1,4 +1,4 @@
-# Amazon MSK with VPC Endpoint Service (PrivateLink)
+# Amazon MSK with VPC Endpoint Service for Databricks Serverless - Single NLB Pattern
 
 This Terraform project deploys an Amazon MSK (Managed Streaming for Apache Kafka) cluster with VPC Endpoint Service access, enabling private connectivity to MSK from external VPCs using AWS PrivateLink.
 
