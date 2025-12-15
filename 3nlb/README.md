@@ -1,4 +1,4 @@
-# Amazon MSK with VPC Endpoint Service for Databricks Serverless
+# Amazon MSK with VPC Endpoint Service for Databricks Serverless - Multiple NLBs Pattern
 
 This Terraform project provisions AWS infrastructure for secure, private connectivity between Databricks Serverless and Amazon MSK (Managed Streaming for Apache Kafka) using IAM authentication and VPC endpoints.
 
